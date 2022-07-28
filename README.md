@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-###- 🌱 I’m currently studying IT at Ho Chi Minh University of Food Industry.
-###- 😄 Pronouns: KayStar
+### - 🌱 I’m currently studying IT at Ho Chi Minh University of Food Industry.
+
+### - 😄 Pronouns: KayStar
 
 <!--
 **KayStar645/KayStar645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
