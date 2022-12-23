@@ -5,6 +5,8 @@
 
 #### - 😄 Pronouns: KayStar
 
+#### - ⚡ Email: thuanpt182@gmail.com
+
 #### - Facebook: https://www.facebook.com/thuanpt182.2 
 
 <!--
