@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Thuan! Welcome to my github!
 
-#### - 🌱 I’m currently studying IT at Ho Chi Minh University of Food Industry.
+#### - 🌱 I’m currently studying IT at Ho Chi Minh City University of Industry and Trade (HUIT).
 
 #### - 😄 Pronouns: KayStar
 
