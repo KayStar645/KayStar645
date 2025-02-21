@@ -5,7 +5,7 @@
 
 #### - 💬 Email: thuanpt182@gmail.com
 
-#### - 💬 Portfolio: https://www.facebook.com/thuanpt182.2 ](https://kaystar645.github.io/portfolio/
+#### - 💬 Portfolio: https://kaystar645.github.io/portfolio/
 
 <!--
 **KayStar645/KayStar645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
