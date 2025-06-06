@@ -17,18 +17,16 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediatR-CQRS-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EF_Core-6DB33F?style=for-the-badge&logo=entityframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
 
-
+- **Languages**: C#, PHP, Python, Java, JavaScript, TypeScript  
+- **Backend Frameworks**: ASP.NET Core, Entity Framework Core, Laravel  
+- **Frontend**: Vue.js, Angular, Bootstrap  
+- **Architectures**: Clean Architecture, Onion Architecture, Microservices  
+- **Design Patterns & Concepts**: CQRS, Dependency Injection, Unit of Work, Event-driven, Localization, RESTful API, gRPC  
+- **ORMs**: Entity Framework Core (Code First, Fluent API), Eloquent ORM  
+- **Databases**: SQL Server, PostgreSQL, MySQL  
+- **Tools**: Git, GitHub, GitLab, Bitbucket, Jira, Visual Studio, VS Code, PhpStorm, Postman  
+- **Libraries**: AutoMapper, MediatR, FluentValidation, Sieve
 
 ---
 
