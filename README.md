@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: C#, PHP, Python, Java, JavaScript, TypeScript  
-- **Backend Frameworks**: ASP.NET Core, Entity Framework Core, Laravel  
+- **Backend Frameworks**: ASP.NET Core, Laravel
 - **Frontend**: Vue.js, Angular, Bootstrap  
 - **Architectures**: Clean Architecture, Onion Architecture, Microservices  
 - **Design Patterns & Concepts**: CQRS, Dependency Injection, Unit of Work, Event-driven, Localization, RESTful API, gRPC  
