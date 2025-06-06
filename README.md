@@ -42,8 +42,8 @@
 
 ## 📂 Featured Projects
 
-- 🔗 [Subscribe Topic System (microservices)](https://github.com/KayStar645/thesis.api)
-- 🔗 [Supermarket System (microservices)](https://github.com/KayStar645/SubscribeTopic_Api)
+- 🔗 [Subscribe Topic System (Clean Architecture)](https://github.com/KayStar645/thesis.api)
+- 🔗 [Supermarket System (Clean Architecture)](https://github.com/KayStar645/SubscribeTopic_Api)
 
 ---
 
