@@ -7,22 +7,25 @@
 ---
 
 ## 🚀 About Me
-- 👨‍💻 I'm a Backend Developer with 2+ years of experience
-- 🎓 Master's student in IT @ HUIT
-- 🌱 Currently researching: Data Mining & NLP (Aspect-based Sentiment Analysis)
-- 🔭 Working on: ERP System, High-Utility Pattern Mining
-- 💡 Interests: Software Architecture, AI, Research, and Open Source
+- 👨‍💻 I'm a Software Developer specializing in **Backend Development** with over 2 years of hands-on experience in building scalable web applications.
+- 🌐 I have worked across multiple domains including **ERP**, **e-commerce**, and **social networking systems**.
+- 🧠 Passionate about applying **Data Mining**, **Aspect-based Sentiment Analysis (ABSA)**, and **AI** to solve real-world problems.
+- 🎓 Currently pursuing a **Master's degree in Information Technology** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
+- 🌱 Actively researching:
+  - 🔍 Data Mining & NLP (Aspect-based Sentiment Analysis)
+  - 🏗️ Software Architecture (Clean Architecture, Microservices, Domain-Driven Design)
+- 🔭 Working on: ERP systems, e-commerce platforms, and social network applications
+- 💡 Interests: AI applications in business, open source, and software system design
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C#, JavaScript, Python, Java  
+- **Languages**: C#, PHP, Python, Java  
 - **Backend**: .NET Core, Laravel  
-- **Frontend**: Vue.js, React  
-- **Database**: SQL Server, PostgreSQL, MongoDB  
-- **DevOps**: Docker, Git, CI/CD  
-- **Tools**: VS Code, Visual Studio, Postman, Jira, Notion  
+- **Frontend**: Vue.js, Angular
+- **Database**: SQL Server, My SQL, PostgreSQL
+- **Tools**: VS Code, Visual Studio, PhpStorm, Postman, Jira
 
 ---
 
