@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me
-- 👨‍💻 I'm a **Full-Stack Developer** with a strong focus on **backend development**, experienced in building robust and scalable web applications from end to end.
-- 💼 I've worked on a variety of projects across domains such as **ERP systems**, **e-commerce platforms**, and **social networking applications**.
+- 👨‍💻 I'm a **Full-Stack Developer** with over **2 years of professional experience**, specializing in **backend development** and capable of delivering full-cycle web applications from frontend to backend.
+- 💼 I've contributed to diverse projects across domains such as **ERP systems**, **e-commerce platforms**, and **social networking applications**.
 - 🎓 Currently pursuing a **Master’s degree in Information Technology** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 - 🔍 My interests revolve around **Data Mining**, **Natural Language Processing (NLP)** — especially **Aspect-Based Sentiment Analysis (ABSA)** — and applying **AI** to real-world systems.
 - 🏗️ I'm also exploring advanced topics in **Software Architecture**, including **Clean Architecture**, **Microservices**, and **Domain-Driven Design (DDD)**.
