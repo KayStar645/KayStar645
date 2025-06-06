@@ -26,6 +26,27 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- 🔗 [Subscribe Topic System (microservices)](https://github.com/KayStar645/thesis.api)
+- 🔗 [Supermarket System (microservices)](https://github.com/KayStar645/SubscribeTopic_Api)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -48,6 +69,12 @@
 
 </div>
 
+---
+
+## 📈 My GitHub Activity
+
+![GitHub Snake dark](https://github.com/KayStar645/KayStar645/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/KayStar645/KayStar645/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
