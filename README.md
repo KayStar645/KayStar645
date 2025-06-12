@@ -61,6 +61,22 @@
 
 ---
 
+# 🚀 KayStar645's GitHub Trophies
+
+<p align="center">
+  <img src="https://github.com/KayStar645/KayStar645/raw/main/trophy.svg" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Biểu đồ hoạt động
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=KayStar645&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
