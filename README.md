@@ -30,13 +30,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🔗 [Subscribe Topic System (Clean Architecture)](https://github.com/KayStar645/thesis.api)
-- 🔗 [Supermarket System (Clean Architecture)](https://github.com/KayStar645/SubscribeTopic_Api)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
