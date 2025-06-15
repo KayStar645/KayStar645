@@ -1,36 +1,38 @@
-<h1 align="center">Hi there 👋, I'm Thuan (KayStar)</h1>
+<h1 align="center">Xin chào 👋, Mình là Thuan (KayStar)</h1>
+
 <p align="center">
-  <a href="https://kaystar645.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="https://kaystar645.github.io/portfolio/">🌐 Trang cá nhân</a> •
   <a href="mailto:thuanpt182@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 I'm a **Full-Stack Developer** with over **2 years of professional experience**, specializing in **backend development** and capable of delivering full-cycle web applications from frontend to backend.
-- 💼 I've contributed to diverse projects across domains such as **ERP systems**, **e-commerce platforms**, and **social networking applications**.
-- 🎓 Currently pursuing a **Master’s degree in Information Technology** at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
-- 🔍 My interests revolve around **Data Mining**, **Natural Language Processing (NLP)** — especially **Aspect-Based Sentiment Analysis (ABSA)** — and applying **AI** to real-world systems.
-- 🏗️ I'm also exploring advanced topics in **Software Architecture**, including **Clean Architecture**, **Microservices**, and **Domain-Driven Design (DDD)**.
-- 🚀 Passionate about blending technology with business insights, contributing to open-source, and continuously learning new tools and frameworks.
+## 🚀 Giới thiệu bản thân
+
+- 👨‍💻 Mình là một **Lập trình viên Full-Stack** với hơn **2 năm kinh nghiệm làm việc chuyên nghiệp**, đặc biệt tập trung vào **phát triển backend**, và có khả năng triển khai toàn bộ vòng đời của ứng dụng web từ frontend đến backend.
+- 💼 Đã từng tham gia và đóng góp vào nhiều dự án thuộc các lĩnh vực như: **Hệ thống ERP**, **Nền tảng thương mại điện tử**, và **Ứng dụng mạng xã hội**.
+- 🎓 Hiện đang theo học **Chương trình Thạc sĩ ngành Công nghệ Thông tin** tại **Đại học Công Thương TP.HCM (HUIT)**.
+- 🔍 Quan tâm đến các lĩnh vực **Khai phá dữ liệu**, **Xử lý ngôn ngữ tự nhiên (NLP)** — đặc biệt là **Phân tích cảm xúc theo khía cạnh (ABSA)** — và ứng dụng **Trí tuệ nhân tạo (AI)** vào các hệ thống thực tiễn.
+- 🏗️ Đang tìm hiểu các chủ đề nâng cao như **Kiến trúc phần mềm** gồm **Clean Architecture**, **Microservices**, và **Domain-Driven Design (DDD)**.
+- 🚀 Đam mê kết hợp công nghệ với tư duy kinh doanh, yêu thích đóng góp mã nguồn mở và luôn sẵn sàng học hỏi những công nghệ mới.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Kỹ năng & Công nghệ sử dụng
 
-- **Languages**: C#, PHP, Python, Java, JavaScript, TypeScript  
-- **Backend Frameworks**: ASP.NET Core, Laravel
+- **Ngôn ngữ**: C#, PHP, Python, Java, JavaScript, TypeScript  
+- **Backend Frameworks**: ASP.NET Core, Laravel  
 - **Frontend**: Vue.js, Angular, Bootstrap  
-- **Architectures**: Clean Architecture, Onion Architecture, Microservices  
-- **Design Patterns & Concepts**: CQRS, Dependency Injection, Unit of Work, Event-driven, Localization, RESTful API, gRPC  
+- **Kiến trúc**: Clean Architecture, Onion Architecture, Microservices  
+- **Mẫu thiết kế & Khái niệm**: CQRS, Dependency Injection, Unit of Work, Event-driven, Localization, RESTful API, gRPC  
 - **ORMs**: Entity Framework Core (Code First, Fluent API), Eloquent ORM  
-- **Databases**: SQL Server, PostgreSQL, MySQL  
-- **Tools**: Git, GitHub, GitLab, Bitbucket, Jira, Visual Studio, VS Code, PhpStorm, Postman  
-- **Libraries**: AutoMapper, MediatR, FluentValidation, Sieve
+- **Cơ sở dữ liệu**: SQL Server, PostgreSQL, MySQL  
+- **Công cụ**: Git, GitHub, GitLab, Bitbucket, Jira, Visual Studio, VS Code, PhpStorm, Postman  
+- **Thư viện thường dùng**: AutoMapper, MediatR, FluentValidation, Sieve
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Thống kê GitHub
 
 <div align="center">
 
@@ -54,10 +56,19 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Kết nối & Hợp tác
 
 <p align="center">
   <a href="mailto:thuanpt182@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/thuanpt182.2/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
   <a href="https://kaystar645.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+## 🤝 Sẵn sàng hợp tác
+
+Mình luôn sẵn sàng **trao đổi, hợp tác nghiên cứu hoặc làm việc dự án thực tế** cùng mọi người trong và ngoài ngành.  
+Nếu bạn có ý tưởng thú vị hoặc đề tài cần người đồng hành — hãy **liên hệ với mình qua [Facebook](https://www.facebook.com/thuanpt182.2/)** hoặc **email** nhé!
+
+---
