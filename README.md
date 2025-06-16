@@ -9,10 +9,10 @@
 
 ## 🚀 Giới thiệu bản thân
 
-- 👨‍💻 Mình là một **Lập trình viên Full-Stack** với hơn **2 năm kinh nghiệm làm việc chuyên nghiệp**, đặc biệt tập trung vào **phát triển backend**, và có khả năng triển khai toàn bộ vòng đời của ứng dụng web từ frontend đến backend.
+- 👨‍💻 Mình là một **Lập trình viên Full-Stack** với hơn **2 năm kinh nghiệm làm việc chuyên nghiệp**, đặc biệt tập trung vào **phát triển backend**.
 - 💼 Đã từng tham gia và đóng góp vào nhiều dự án thuộc các lĩnh vực như: **Hệ thống ERP**, **Nền tảng thương mại điện tử**, và **Ứng dụng mạng cộng đồng**.
-- 🎓 Hiện đang theo học **Chương trình Thạc sĩ ngành Công nghệ Thông tin** tại **Đại học Công Thương TP.HCM (HUIT)**.
-- 🔍 Quan tâm đến các lĩnh vực **Khai phá dữ liệu**, **Xử lý ngôn ngữ tự nhiên (NLP)** — đặc biệt là **Phân tích cảm xúc theo khía cạnh (ABSA)** — và ứng dụng **Trí tuệ nhân tạo (AI)** vào các hệ thống thực tiễn.
+- 🎓 Hiện đang theo học **Chương trình Thạc sĩ ngành Công nghệ Thông tin - Định hướng ứng dụng** tại **Đại học Công Thương TP.HCM (HUIT)**.
+- 🔍 Quan tâm đến các lĩnh vực **Khai phá dữ liệu**, **Phân tích cảm xúc theo khía cạnh (ABSA)**, **Phân tích hành vi và cá nhân hóa người dùng**.
 - 🏗️ Đang tìm hiểu các chủ đề nâng cao như **Kiến trúc phần mềm** gồm **Clean Architecture**, **Microservices**, và **Domain-Driven Design (DDD)**.
 - 🚀 Đam mê kết hợp công nghệ với tư duy kinh doanh, yêu thích đóng góp mã nguồn mở và luôn sẵn sàng học hỏi những công nghệ mới.
 
