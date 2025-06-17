@@ -19,29 +19,45 @@ I enjoy building scalable systems, solving real-world problems with clean archit
 
 ## 💻 My Tech Stack & Skills
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      
+      <h4>🛠 Backend Development</h4>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
 
-### 🛠 Backend Development  
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
 
-### 🎨 Frontend Development  
-<img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <h4>🎨 Frontend Development</h4>
+      <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-### 🧠 Concepts & Patterns  
-<img src="https://img.shields.io/badge/Clean--Architecture-007ACC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CQRS-00BFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DDD-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
 
-### 🗃 Databases  
-<img src="https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <h4>🧠 Concepts & Patterns</h4>
+      <img src="https://img.shields.io/badge/Clean--Architecture-007ACC?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/CQRS-00BFFF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/DDD-00599C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc" />
 
-</div>
+    </td>
+    <td align="center" valign="top">
+
+      <h4>🗃 Databases</h4>
+      <img src="https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
