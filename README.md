@@ -1,72 +1,57 @@
-<h1 align="center">Xin chào 👋, Mình là Thuan (KayStar)</h1>
+<h1 align="center">Hi there, I'm Thuan (KayStar) 👋</h1>
 
-<p align="center">
-  <a href="https://kaystar645.github.io/portfolio/">🌐 Trang cá nhân</a> •
-  <a href="mailto:thuanpt182@gmail.com">📧 Email</a>
-</p>
+<h3 align="center">Full-Stack Developer & MSc Student at HUIT</h3>
 
----
-
-## 🚀 Giới thiệu bản thân
-
-- 👨‍💻 Mình là một **Lập trình viên Full-Stack** với hơn **2 năm kinh nghiệm làm việc chuyên nghiệp**, đặc biệt tập trung vào **phát triển backend**.
-- 💼 Đã từng tham gia và đóng góp vào nhiều dự án thuộc các lĩnh vực như: **Hệ thống ERP**, **Nền tảng thương mại điện tử**, và **Ứng dụng mạng cộng đồng**.
-- 🎓 Hiện đang theo học **Chương trình Thạc sĩ ngành Công nghệ Thông tin - Định hướng ứng dụng** tại **Đại học Công Thương TP.HCM (HUIT)**.
-- 🔍 Quan tâm đến các lĩnh vực **Khai phá dữ liệu**, **Phân tích cảm xúc theo khía cạnh (ABSA)**, **Phân tích hành vi và cá nhân hóa người dùng**.
-- 🏗️ Đang tìm hiểu các chủ đề nâng cao như **Kiến trúc phần mềm** gồm **Clean Architecture**, **Microservices**, và **Domain-Driven Design (DDD)**.
-- 🚀 Đam mê kết hợp công nghệ với tư duy kinh doanh, yêu thích đóng góp mã nguồn mở và luôn sẵn sàng học hỏi những công nghệ mới.
+I'm a passionate and driven full-stack developer with over 2 years of professional experience, currently pursuing a Master's degree in Applied Information Technology at the University of Industry and Trade (HUIT) in Ho Chi Minh City.  
+I enjoy building scalable systems, solving real-world problems with clean architecture, and exploring areas like ABSA, user behavior analysis, and AI integration in modern software.
 
 ---
 
-## 🛠️ Kỹ năng & Công nghệ sử dụng
+### 🧠 About Me
 
-- **Ngôn ngữ**: C#, PHP, Python, JavaScript, TypeScript
-- **Backend Frameworks**: ASP.NET Core, Laravel
-- **Frontend**: Vue.js, Angular, Bootstrap
-- **Kiến trúc**: Clean Architecture, Onion Architecture, Microservices
-- **Mẫu thiết kế & Khái niệm**: CQRS, Dependency Injection, Unit of Work, Event-driven, Localization, RESTful API, gRPC
-- **Cơ sở dữ liệu**: SQL Server, PostgreSQL, MySQL
-- **Thư viện thường dùng**: AutoMapper, MediatR, FluentValidation, Sieve
+- 🎓 Studying MSc in IT - Applied Orientation at HUIT, Ho Chi Minh City.  
+- 💼 Over 2 years of experience building ERP, e-commerce, and social network systems.  
+- 🧩 Passionate about Clean Architecture, DDD, and Microservices.  
+- 🔍 Interested in Data Mining, ABSA, and Personalized Recommendation Systems.  
+- 🛠️ Always eager to learn new technologies and collaborate on impactful projects.
 
 ---
 
-## 📊 Thống kê GitHub
+### 💻 My Tech Stack & Skills
 
-<div align="center">
+#### 🛠 Backend Development
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KayStar645&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayStar645&theme=radical" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayStar645&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+#### 🎨 Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+#### 🧠 Concepts & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean--Architecture-007ACC?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-00BFFF?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-00599C?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc)
+
+#### 🗃 Databases
+![SQL Server](https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📫 Kết nối & Hợp tác
+### 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:thuanpt182@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/thuanpt182.2/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://kaystar645.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuanpt182@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thuanpt182.2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://kaystar645.github.io/portfolio/)
 
 ---
 
 ## 🤝 Sẵn sàng hợp tác
 
-Mình luôn sẵn sàng **trao đổi, hợp tác nghiên cứu hoặc làm việc dự án thực tế** cùng mọi người trong và ngoài ngành.  
-Nếu bạn có ý tưởng thú vị hoặc đề tài cần người đồng hành — hãy **liên hệ với mình qua [Facebook](https://www.facebook.com/thuanpt182.2/)** hoặc **email** nhé!
+I am always ready to **exchange, collaborate on research or work on real projects** with everyone in and outside the industry. 
+If you have an interesting idea or a topic that needs a companion — please **contact me via [Facebook](https://www.facebook.com/thuanpt182.2/)** or **email**!
 
 ---
