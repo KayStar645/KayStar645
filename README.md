@@ -20,14 +20,12 @@
 
 ## 🛠️ Kỹ năng & Công nghệ sử dụng
 
-- **Ngôn ngữ**: C#, PHP, Python, Java, JavaScript, TypeScript  
-- **Backend Frameworks**: ASP.NET Core, Laravel  
-- **Frontend**: Vue.js, Angular, Bootstrap  
-- **Kiến trúc**: Clean Architecture, Onion Architecture, Microservices  
-- **Mẫu thiết kế & Khái niệm**: CQRS, Dependency Injection, Unit of Work, Event-driven, Localization, RESTful API, gRPC  
-- **ORMs**: Entity Framework Core (Code First, Fluent API), Eloquent ORM  
-- **Cơ sở dữ liệu**: SQL Server, PostgreSQL, MySQL  
-- **Công cụ**: Git, GitHub, GitLab, Bitbucket, Jira, Visual Studio, VS Code, PhpStorm, Postman  
+- **Ngôn ngữ**: C#, PHP, Python, JavaScript, TypeScript
+- **Backend Frameworks**: ASP.NET Core, Laravel
+- **Frontend**: Vue.js, Angular, Bootstrap
+- **Kiến trúc**: Clean Architecture, Onion Architecture, Microservices
+- **Mẫu thiết kế & Khái niệm**: CQRS, Dependency Injection, Unit of Work, Event-driven, Localization, RESTful API, gRPC
+- **Cơ sở dữ liệu**: SQL Server, PostgreSQL, MySQL
 - **Thư viện thường dùng**: AutoMapper, MediatR, FluentValidation, Sieve
 
 ---
