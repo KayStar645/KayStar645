@@ -22,59 +22,48 @@ I enjoy building scalable systems, solving real-world problems with clean archit
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      
       <h4>🛠 Backend Development</h4>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
-
     </td>
     <td align="center" valign="top">
-
       <h4>🎨 Frontend Development</h4>
       <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-
       <h4>🧠 Concepts & Patterns</h4>
       <img src="https://img.shields.io/badge/Clean--Architecture-007ACC?style=for-the-badge" /><br/>
       <img src="https://img.shields.io/badge/CQRS-00BFFF?style=for-the-badge" />
       <img src="https://img.shields.io/badge/DDD-00599C?style=for-the-badge" />
       <img src="https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc" />
-
     </td>
     <td align="center" valign="top">
-
       <h4>🗃 Databases</h4>
       <img src="https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-
     </td>
   </tr>
 </table>
-
 
 ---
 
 ## 📫 Contact Me
 
 <div align="center">
-
-<a href="mailto:thuanpt182@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/thuanpt182.2/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://kaystar645.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="mailto:thuanpt182@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/thuanpt182.2/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://kaystar645.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
