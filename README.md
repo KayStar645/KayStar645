@@ -17,52 +17,55 @@ I enjoy building scalable systems, solving real-world problems with clean archit
 
 ---
 
-<p align="center">
-  ### 💻 My Tech Stack & Skills
-</p>
+## 💻 My Tech Stack & Skills
 
-<p align="center">
-  #### 🛠 Backend Development
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-</p>
+<div align="center">
 
-<p align="center">
-  #### 🎨 Frontend Development
-  ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-</p>
+### 🛠 Backend Development  
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
 
-<p align="center">
-  #### 🧠 Concepts & Patterns
-  ![Clean Architecture](https://img.shields.io/badge/Clean--Architecture-007ACC?style=for-the-badge)
-  ![CQRS](https://img.shields.io/badge/CQRS-00BFFF?style=for-the-badge)
-  ![DDD](https://img.shields.io/badge/DDD-00599C?style=for-the-badge)
-  ![gRPC](https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc)
-</p>
+### 🎨 Frontend Development  
+<img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<p align="center">
-  #### 🗃 Databases
-  ![SQL Server](https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-</p>
+### 🧠 Concepts & Patterns  
+<img src="https://img.shields.io/badge/Clean--Architecture-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CQRS-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DDD-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc" />
+
+### 🗃 Databases  
+<img src="https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
 
 ---
 
-<p align="center">
-  ### 📫 Contact Me
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuanpt182@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thuanpt182.2/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://kaystar645.github.io/portfolio/)  
-</p>
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:thuanpt182@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/thuanpt182.2/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://kaystar645.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🤝 Sẵn sàng hợp tác
+## 🤝 Ready to cooperate
 
-I am always ready to **exchange, collaborate on research or work on real projects** with everyone in and outside the industry. 
+I am always ready to **exchange, collaborate on research or work on real projects** with everyone in and outside the industry.  
 If you have an interesting idea or a topic that needs a companion — please **contact me via [Facebook](https://www.facebook.com/thuanpt182.2/)** or **email**!
 
 ---
