@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Thuan (KayStar) 👋</h1>
 
-<h3 align="center">Full-Stack Developer & MSc Student at HUIT</h3>
+<h3 align="center">Full-Stack Developer & MSc Student</h3>
 
 I'm a passionate and driven full-stack developer with over 2 years of professional experience, currently pursuing a Master's degree in Applied Information Technology at the University of Industry and Trade (HUIT) in Ho Chi Minh City.  
 I enjoy building scalable systems, solving real-world problems with clean architecture, and exploring areas like ABSA, user behavior analysis, and AI integration in modern software.
