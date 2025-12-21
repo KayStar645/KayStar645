@@ -2,7 +2,7 @@
 
 <h3 align="center">Full-Stack Developer & MSc Student</h3>
 
-I'm a passionate and driven full-stack developer with over 2.5 years of professional experience, currently pursuing a Master's degree in Applied Information Technology at the University of Industry and Trade (HUIT) in Ho Chi Minh City.  
+I'm a passionate and driven full-stack developer with over 3 years of professional experience, currently pursuing a Master's degree in Applied Information Technology at the University of Industry and Trade (HUIT) in Ho Chi Minh City.  
 I enjoy building scalable systems, solving real-world problems with clean architecture, and exploring areas like ABSA, user behavior analysis, and AI integration in modern software.
 
 ---
@@ -10,7 +10,7 @@ I enjoy building scalable systems, solving real-world problems with clean archit
 ### 🧠 About Me
 
 - 🎓 Studying MSc in IT - Applied Orientation at HUIT, Ho Chi Minh City.  
-- 💼 Over 2.5 years of experience building ERP, e-commerce, and social network systems.  
+- 💼 3 years of experience building ERP, e-commerce, and social network systems.  
 - 🧩 Passionate about Clean Architecture, DDD, and Microservices.  
 - 🔍 Interested in Data Mining, ABSA, and Personalized Recommendation Systems.  
 - 🛠️ Always eager to learn new technologies and collaborate on impactful projects.
