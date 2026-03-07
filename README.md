@@ -52,12 +52,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaystar645&show_icons=true&hide_border=true&theme=algolia&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaystar645&theme=github_dark" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=kaystar645&hide_border=true&theme=algolia" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaystar645&layout=compact&hide_border=true&theme=algolia&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaystar645&theme=github_dark" alt="Top languages" />
 </p>
 
 ---
