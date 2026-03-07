@@ -8,7 +8,7 @@
 <p align="center"><strong>Full-Stack Developer | MSc Student | System Architecture Enthusiast</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=920&lines=Building+Enterprise+Software;Clean+Architecture+%7C+DDD+%7C+Microservices;AI-Assisted+Development+Explorer;Designing+Scalable+and+Maintainable+Systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=920&lines=Building+Enterprise+Software;.NET+%7C+React+%7C+SQL+Server+%7C+Azure+DevOps;Clean+Architecture+%7C+DDD+%7C+Microservices;Designing+Scalable+and+Maintainable+Systems" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -29,22 +29,24 @@
 <table align="center">
   <tr>
     <td align="center"><strong>Experience</strong><br/>3+ years</td>
-    <td align="center"><strong>Current Focus</strong><br/>Enterprise Systems & Architecture</td>
+    <td align="center"><strong>Focus Area</strong><br/>Enterprise Systems & Architecture</td>
+    <td align="center"><strong>Core Stack</strong><br/>.NET, React, SQL Server, Azure DevOps</td>
     <td align="center"><strong>Academic Track</strong><br/>MSc in Applied Information Technology</td>
   </tr>
 </table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-111827?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/RabbitMQ-111827?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-111827?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
@@ -73,6 +75,7 @@
 
 - I am a full-stack developer with over 3 years of professional experience delivering ERP platforms, e-commerce solutions, social network systems, and DPM software.
 - I am currently pursuing a Master's degree in Applied Information Technology at the University of Industry and Trade in Ho Chi Minh City (HUIT).
+- My current core stack is centered on .NET, React, SQL Server, and Azure DevOps.
 - My work is driven by clean system design, solid domain modeling, and a practical approach to building software that lasts.
 - I actively explore AI-assisted development as a way to improve engineering productivity, delivery speed, and solution quality.
 
@@ -85,8 +88,9 @@
 
 ### Tech Stack
 
+- **Current Core Stack:** .NET, React, SQL Server, Azure DevOps
 - **Backend:** .NET, Laravel
-- **Frontend:** Angular, Vue.js, Bootstrap
+- **Frontend:** React, Angular, Vue.js, Bootstrap
 - **Architecture & Engineering:** Clean Architecture, DDD, CQRS, gRPC, Microservices
 - **Infrastructure & Tools:** RabbitMQ, Elasticsearch, Azure DevOps, Docker, CI/CD
 - **Databases:** SQL Server, PostgreSQL, MySQL
@@ -123,6 +127,7 @@
 
 - Tôi là lập trình viên full-stack với hơn 3 năm kinh nghiệm thực tế trong các hệ thống ERP, thương mại điện tử, mạng xã hội và phần mềm DPM.
 - Hiện tôi đang theo học chương trình Thạc sĩ Công nghệ Thông tin Ứng dụng tại Trường Đại học Công Thương TP.HCM (HUIT).
+- Công nghệ trọng tâm hiện tại của tôi là .NET, React, SQL Server và Azure DevOps.
 - Tôi yêu thích việc thiết kế hệ thống sạch, mô hình hóa domain rõ ràng và xây dựng sản phẩm có thể phát triển bền vững theo thời gian.
 - Tôi cũng quan tâm mạnh đến AI-assisted development để tăng năng suất, rút ngắn thời gian triển khai và cải thiện chất lượng giải pháp.
 
@@ -135,8 +140,9 @@
 
 ### Công Nghệ Chính
 
+- **Current Core Stack:** .NET, React, SQL Server, Azure DevOps
 - **Backend:** .NET, Laravel
-- **Frontend:** Angular, Vue.js, Bootstrap
+- **Frontend:** React, Angular, Vue.js, Bootstrap
 - **Kiến trúc & Kỹ thuật:** Clean Architecture, DDD, CQRS, gRPC, Microservices
 - **Hạ tầng & Công cụ:** RabbitMQ, Elasticsearch, Azure DevOps, Docker, CI/CD
 - **Cơ sở dữ liệu:** SQL Server, PostgreSQL, MySQL
@@ -173,6 +179,7 @@
 
 - 我是一名全栈开发者，拥有 3 年以上专业经验，参与过 ERP、电商、社交平台和 DPM 软件系统的开发与交付。
 - 目前我正在胡志明市工业与贸易大学（HUIT）攻读应用信息技术硕士学位。
+- 我当前的核心技术栈是 .NET、React、SQL Server 和 Azure DevOps。
 - 我长期关注整洁的系统设计、清晰的领域建模，以及能够持续演进的软件架构。
 - 我也积极探索 AI-assisted development，希望通过更高效的工程方式提升交付速度与解决方案质量。
 
@@ -185,8 +192,9 @@
 
 ### 技术栈
 
+- **Current Core Stack：** .NET, React, SQL Server, Azure DevOps
 - **后端：** .NET, Laravel
-- **前端：** Angular, Vue.js, Bootstrap
+- **前端：** React, Angular, Vue.js, Bootstrap
 - **架构与工程：** Clean Architecture, DDD, CQRS, gRPC, Microservices
 - **基础设施与工具：** RabbitMQ, Elasticsearch, Azure DevOps, Docker, CI/CD
 - **数据库：** SQL Server, PostgreSQL, MySQL
